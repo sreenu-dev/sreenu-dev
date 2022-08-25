@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Data Science Projects
 - 🤔 I’m looking for help with Data Analytics
 - 💬 Ask me about Angular and C# Web Development
-- 📫 How to reach me: ummadisreenu.dev@gmail.com
+- 📫 How to reach me: sreenucars777@gmail.com
 - 😄 Pronouns: Sreeni
 - ⚡ Fun fact: I like automation
 <!--
